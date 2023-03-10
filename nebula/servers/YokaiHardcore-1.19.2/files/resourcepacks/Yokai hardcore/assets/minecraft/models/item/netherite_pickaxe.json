@@ -1,0 +1,19 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_pickaxe"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 6370001},"model": "hammer/netherite"},
+
+    {"predicate": {"custom_model_data": 6371002},"model": "pick/control"},
+    {"predicate": {"custom_model_data": 6371003},"model": "pick/control2"},
+    {"predicate": {"custom_model_data": 6371004},"model": "pick/efficient"},
+    {"predicate": {"custom_model_data": 6371005},"model": "pick/wither"},
+
+    {"predicate": {"custom_model_data": 6371006},"model": "pick/dragon"},
+    {"predicate": {"custom_model_data": 6371007},"model": "pick/fortunate"}
+
+    ]
+}

@@ -1,0 +1,100 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/item_frame"
+  },
+	"overrides": 
+	[
+    { "predicate": { "custom_model_data": 6370001}, "model": "crafter/custom_crafter"},
+    { "predicate": { "custom_model_data": 6370002}, "model": "crafter/bow_crafter"},
+    { "predicate": { "custom_model_data": 6370003}, "model": "crafter/ender_crafter"},
+    { "predicate": { "custom_model_data": 6370004}, "model": "crafter/machine_crafter"},
+    { "predicate": { "custom_model_data": 6370005}, "model": "crafter/redstone_crafter"},
+    { "predicate": { "custom_model_data": 6370006}, "model": "crafter/sword_crafter"},
+    { "predicate": { "custom_model_data": 6370007}, "model": "crafter/totem_crafter"},
+    { "predicate": { "custom_model_data": 6370008}, "model": "crafter/diamond_crafter"},
+    { "predicate": { "custom_model_data": 6370009}, "model": "crafter/axe_crafter"},
+    { "predicate": { "custom_model_data": 6370010}, "model": "crafter/wand_crafter"},
+    { "predicate": { "custom_model_data": 6370011}, "model": "crafter/tnt_crafter"},
+
+    { "predicate": { "custom_model_data": 6370101}, "model": "machine/item/chunk_loader"},
+    { "predicate": { "custom_model_data": 6370102}, "model": "machine/chunk_loader"},
+    { "predicate": { "custom_model_data": 6370103},"model": "machine/crusher"},
+    { "predicate": { "custom_model_data": 6370104},"model": "machine/washer"},
+    { "predicate": { "custom_model_data": 6370105},"model": "machine/washer_blade"},
+    { "predicate": { "custom_model_data": 6370106},"model": "machine/item/crusher"},
+    { "predicate": { "custom_model_data": 6370107},"model": "machine/saturator"},
+    { "predicate": { "custom_model_data": 6370108},"model": "machine/item/washer"},
+    { "predicate": { "custom_model_data": 6370109},"model": "machine/breaker"},
+    { "predicate": { "custom_model_data": 6370110},"model": "machine/breaker_up"},
+    { "predicate": { "custom_model_data": 6370111},"model": "machine/breaker_down"},
+    { "predicate": { "custom_model_data": 6370112},"model": "machine/crusher_base"},
+    { "predicate": { "custom_model_data": 6370113},"model": "machine/placer"},
+    { "predicate": { "custom_model_data": 6370114},"model": "machine/placer_up"},
+    { "predicate": { "custom_model_data": 6370115},"model": "machine/placer_down"},
+    { "predicate": { "custom_model_data": 6370116},"model": "machine/composter"},
+    { "predicate": { "custom_model_data": 6370117},"model": "machine/sprinkler"},
+    { "predicate": { "custom_model_data": 6370118},"model": "machine/extruder_andesite"},
+    { "predicate": { "custom_model_data": 6370119},"model": "machine/extruder_blackstone"},
+    { "predicate": { "custom_model_data": 6370120},"model": "machine/extruder_calcite"},
+    { "predicate": { "custom_model_data": 6370121},"model": "machine/extruder_deepslate"},
+    { "predicate": { "custom_model_data": 6370122},"model": "machine/extruder_diorite"},
+    { "predicate": { "custom_model_data": 6370123},"model": "machine/extruder_dripstone"},
+    { "predicate": { "custom_model_data": 6370124},"model": "machine/extruder_granite"},
+    { "predicate": { "custom_model_data": 6370125},"model": "machine/extruder_tuff"},
+    { "predicate": { "custom_model_data": 6370126},"model": "machine/compactor"},
+    { "predicate": { "custom_model_data": 6370127},"model": "machine/fan"},
+    { "predicate": { "custom_model_data": 6370128},"model": "machine/farmer"},
+    { "predicate": { "custom_model_data": 6370129},"model": "machine/pearl_thrower"},
+    { "predicate": { "custom_model_data": 6370130},"model": "machine/rotator"},
+    { "predicate": { "custom_model_data": 6370131},"model": "machine/stripper"},
+    { "predicate": { "custom_model_data": 6370132},"model": "machine/trash_can"},
+    { "predicate": { "custom_model_data": 6370133},"model": "machine/oxidizer"},
+    { "predicate": { "custom_model_data": 6370134},"model": "machine/bedrock_breaker"},
+    { "predicate": { "custom_model_data": 6370135},"model": "machine/xp/tank/tank_item"},
+    { "predicate": { "custom_model_data": 6370136},"model": "machine/xp/tank/tank_empty"},
+    { "predicate": { "custom_model_data": 6370137},"model": "machine/xp/tank/tank_0"},
+    { "predicate": { "custom_model_data": 6370138},"model": "machine/xp/tank/tank_1"},
+    { "predicate": { "custom_model_data": 6370139},"model": "machine/xp/tank/tank_2"},
+    { "predicate": { "custom_model_data": 6370140},"model": "machine/xp/tank/tank_3"},
+    { "predicate": { "custom_model_data": 6370141},"model": "machine/xp/tank/tank_4"},
+    { "predicate": { "custom_model_data": 6370142},"model": "machine/xp/tank/tank_5"},
+    { "predicate": { "custom_model_data": 6370143},"model": "machine/xp/tank/tank_6"},
+    { "predicate": { "custom_model_data": 6370144},"model": "machine/xp/tank/tank_7"},
+    { "predicate": { "custom_model_data": 6370145},"model": "machine/xp/tank/tank_8"},
+    { "predicate": { "custom_model_data": 6370146},"model": "machine/xp/tank/tank_9"},
+    { "predicate": { "custom_model_data": 6370147},"model": "machine/xp/tank/tank_10"},
+    { "predicate": { "custom_model_data": 6370148},"model": "machine/xp/tank/tank_11"},
+    { "predicate": { "custom_model_data": 6370149},"model": "machine/xp/tank/tank_12"},
+    { "predicate": { "custom_model_data": 6370150},"model": "machine/xp/tank/tank_13"},
+    { "predicate": { "custom_model_data": 6370151},"model": "machine/xp/tank/tank_full"},
+    { "predicate": { "custom_model_data": 6370152},"model": "machine/xp/drain"},
+    { "predicate": { "custom_model_data": 6370153},"model": "machine/xp/spout"},
+    { "predicate": { "custom_model_data": 6370154},"model": "machine/xp/spout_down"},
+
+    { "predicate": { "custom_model_data": 6370300},"model": "random/placer"},
+
+
+    { "predicate": { "custom_model_data": 6370501},"model": "redstone/receiver"},
+    { "predicate": { "custom_model_data": 6370502},"model": "redstone/transmitter"},
+    { "predicate": { "custom_model_data": 6370503},"model": "redstone/detector_player"},
+    { "predicate": { "custom_model_data": 6370504},"model": "redstone/detector_passive"},
+    { "predicate": { "custom_model_data": 6370505},"model": "redstone/detector_hostile"},
+    { "predicate": { "custom_model_data": 6370506},"model": "redstone/collector"},
+    { "predicate": { "custom_model_data": 6370507},"model": "redstone/timer"},
+
+
+    { "predicate": { "custom_model_data": 6371001}, "model": "tnt/cannon/2_base"},
+    { "predicate": { "custom_model_data": 6371002}, "model": "tnt/cannon/2_item"}
+
+
+
+
+
+
+
+
+
+	]
+	
+}

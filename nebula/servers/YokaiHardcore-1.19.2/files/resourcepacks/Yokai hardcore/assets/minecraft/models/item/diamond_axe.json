@@ -1,0 +1,20 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_axe"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 6370001},"model": "axe/fire"},
+    {"predicate": {"custom_model_data": 6370002},"model": "axe/giants"},
+    {"predicate": {"custom_model_data": 6370003},"model": "axe/replanting"},
+    {"predicate": {"custom_model_data": 6370004},"model": "axe/water"},
+    {"predicate": {"custom_model_data": 6370005},"model": "axe/enchanted_book"},
+    {"predicate": {"custom_model_data": 6370006},"model": "axe/blaze_rod"},
+    {"predicate": {"custom_model_data": 6370007},"model": "axe/ender"},
+    {"predicate": {"custom_model_data": 6370008},"model": "axe/instant"},
+    {"predicate": {"custom_model_data": 6370009},"model": "axe/lumber"}
+
+    ]
+}
+

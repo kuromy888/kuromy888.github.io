@@ -1,0 +1,47 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_sword"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 6370001},"model": "swords/iron/chorus"},
+    {"predicate": {"custom_model_data": 6370002},"model": "swords/iron/cursed"},
+    {"predicate": {"custom_model_data": 6370003},"model": "swords/iron/firework"},
+    {"predicate": {"custom_model_data": 6370004},"model": "swords/iron/fish"},
+    {"predicate": {"custom_model_data": 6370005},"model": "swords/iron/glowstone"},
+    {"predicate": {"custom_model_data": 6370006},"model": "swords/iron/honey"},
+    {"predicate": {"custom_model_data": 6370007},"model": "swords/iron/magma"},
+    {"predicate": {"custom_model_data": 6370008},"model": "swords/iron/piston"},
+    {"predicate": {"custom_model_data": 6370009},"model": "swords/iron/sticky_piston"},
+    {"predicate": {"custom_model_data": 6370010},"model": "swords/iron/emerald"},
+    {"predicate": {"custom_model_data": 6370011},"model": "swords/iron/quartz"},
+    {"predicate": {"custom_model_data": 6370012},"model": "swords/iron/prismarine"},
+    {"predicate": {"custom_model_data": 6370013},"model": "swords/iron/shulker"},
+    {"predicate": {"custom_model_data": 6370014},"model": "swords/iron/crying_obsidian"},
+    {"predicate": {"custom_model_data": 6370015},"model": "swords/iron/backstab"},
+    {"predicate": {"custom_model_data": 6370016},"model": "swords/iron/invisible"},
+    {"predicate": {"custom_model_data": 6370017},"model": "swords/iron/lapis"},
+    {"predicate": {"custom_model_data": 6370018},"model": "swords/iron/clay-more"},
+    {"predicate": {"custom_model_data": 6370019},"model": "swords/iron/dolphin"},
+    {"predicate": {"custom_model_data": 6370020},"model": "swords/iron/redstone"},
+    {"predicate": {"custom_model_data": 6370021},"model": "swords/iron/armor_breaker"},
+    {"predicate": {"custom_model_data": 6370022},"model": "swords/iron/sword_breaker"},
+
+    {"predicate": {"custom_model_data": 6370023},"model": "swords/iron/end_stone"},
+    {"predicate": {"custom_model_data": 6370024},"model": "swords/iron/cobweb"},
+    {"predicate": {"custom_model_data": 6370025},"model": "swords/iron/note_block"},
+    {"predicate": {"custom_model_data": 6370026},"model": "swords/iron/blaze_rod"},
+    {"predicate": {"custom_model_data": 6370027},"model": "swords/iron/ender_eye"},
+    {"predicate": {"custom_model_data": 6370028},"model": "swords/iron/copper1"},
+    {"predicate": {"custom_model_data": 6370029},"model": "swords/iron/copper2"},
+    {"predicate": {"custom_model_data": 6370030},"model": "swords/iron/copper3"},
+    {"predicate": {"custom_model_data": 6370031},"model": "swords/iron/copper4"},
+    {"predicate": {"custom_model_data": 6370032},"model": "swords/iron/amethyst"},
+    {"predicate": {"custom_model_data": 6370033},"model": "swords/iron/deepslate"},
+    {"predicate": {"custom_model_data": 6370034},"model": "swords/iron/golden_carrot"},
+    {"predicate": {"custom_model_data": 6370035},"model": "swords/iron/chain"},
+    {"predicate": {"custom_model_data": 6370036},"model": "swords/iron/bell"}
+
+    ]
+}

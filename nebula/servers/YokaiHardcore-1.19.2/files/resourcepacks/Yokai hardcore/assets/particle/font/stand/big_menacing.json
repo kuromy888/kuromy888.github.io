@@ -1,0 +1,13 @@
+{
+    "providers": [
+		{
+            "type": "bitmap",
+            "file": "particle:big_menacing.png",
+            "ascent": 40,
+            "height": 40,
+            "chars": [
+                "\uE020\uE021\uE022\uE023\uE024"
+            ]
+        }
+    ]
+}

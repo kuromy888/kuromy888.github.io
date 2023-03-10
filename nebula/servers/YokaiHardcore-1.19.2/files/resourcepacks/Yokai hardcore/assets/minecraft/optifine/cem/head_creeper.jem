@@ -1,0 +1,139 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -0.25, 0],
+			"boxes": [
+				{"coordinates": [-4, 0.25, -4, 8, 8, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-4, 0.25, -4, 8, 8, 8], "textureOffset": [32, 0], "sizeAdd": 0.25}
+			],
+			"submodels": [
+				{
+					"id": "leaf1a",
+					"invertAxis": "xy",
+					"translate": [4.25, 1.5, 0],
+					"rotate": [0, 90, -32.5],
+					"boxes": [
+						{"coordinates": [-3, 0, 0, 6, 6, 0], "textureOffset": [52, 16]}
+					],
+					"submodels": [
+						{
+							"id": "leaf1b",
+							"invertAxis": "xy",
+							"translate": [0, 6, 0],
+							"rotate": [52.5, 0, 0],
+							"boxes": [
+								{"coordinates": [-3, 0, 0, 6, 2, 0], "textureOffset": [52, 22]}
+							]
+						}
+					]
+				},
+				{
+					"id": "leaf2a",
+					"invertAxis": "xy",
+					"translate": [-4.25, 1.5, 0],
+					"rotate": [0, -90, 32.5],
+					"submodels": [
+						{
+							"id": "body_sub_24",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"mirrorTexture": "u",
+							"boxes": [
+								{"coordinates": [-3, 0, 0, 6, 6, 0], "textureOffset": [52, 16]}
+							]
+						},
+						{
+							"id": "leaf2b",
+							"invertAxis": "xy",
+							"translate": [0, 6, 0],
+							"rotate": [52.5, 0, 0],
+							"submodels": [
+								{
+									"id": "body_sub_26",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"mirrorTexture": "u",
+									"boxes": [
+										{"coordinates": [-3, 0, 0, 6, 2, 0], "textureOffset": [52, 22]}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "leaf3a",
+					"invertAxis": "xy",
+					"translate": [0, 1.5, 4.25],
+					"rotate": [32.5, 0, 0],
+					"submodels": [
+						{
+							"id": "body_sub_28",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"mirrorTexture": "u",
+							"boxes": [
+								{"coordinates": [-3, 0, 0, 6, 6, 0], "textureOffset": [52, 16]}
+							]
+						},
+						{
+							"id": "leaf3b",
+							"invertAxis": "xy",
+							"translate": [0, 6, 0],
+							"rotate": [52.5, 0, 0],
+							"submodels": [
+								{
+									"id": "body_sub_30",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"mirrorTexture": "u",
+									"boxes": [
+										{"coordinates": [-3, 0, 0, 6, 2, 0], "textureOffset": [52, 22]}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "leaf4a",
+					"invertAxis": "xy",
+					"translate": [0, 1.5, -4.25],
+					"rotate": [-32.5, 0, 0],
+					"submodels": [
+						{
+							"id": "body_sub_32",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"mirrorTexture": "u",
+							"boxes": [
+								{"coordinates": [-3, 0, 0, 6, 6, 0], "textureOffset": [52, 16]}
+							]
+						},
+						{
+							"id": "leaf3b2",
+							"invertAxis": "xy",
+							"translate": [0, 6, 0],
+							"rotate": [-52.5, 0, 0],
+							"submodels": [
+								{
+									"id": "body_sub_34",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"mirrorTexture": "u",
+									"boxes": [
+										{"coordinates": [-3, 0, 0, 6, 2, 0], "textureOffset": [52, 22]}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

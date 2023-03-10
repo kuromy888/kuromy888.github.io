@@ -1,0 +1,35 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_sword"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 6370001},"model": "swords/diamond/critical"},
+    {"predicate": {"custom_model_data": 6370002},"model": "swords/diamond/crystal"},
+    {"predicate": {"custom_model_data": 6370003},"model": "swords/diamond/god"},  
+    {"predicate": {"custom_model_data": 6370005},"model": "swords/diamond/xp"},
+    {"predicate": {"custom_model_data": 6370006},"model": "swords/diamond/rainbow"},
+    {"predicate": {"custom_model_data": 6370007},"model": "swords/diamond/demon"},  
+    {"predicate": {"custom_model_data": 6370008},"model": "swords/diamond/angel"},  
+    {"predicate": {"custom_model_data": 6370010},"model": "swords/diamond/nautilus"},   
+    {"predicate": {"custom_model_data": 6370013},"model": "swords/diamond/wither_skeleton"},   
+    {"predicate": {"custom_model_data": 6370014},"model": "swords/diamond/loot"},  
+
+    {"predicate": {"custom_model_data": 6370015},"model": "swords/diamond/all_or_nothing"},  
+    {"predicate": {"custom_model_data": 6370016},"model": "swords/diamond/"},  
+    {"predicate": {"custom_model_data": 6370017},"model": "swords/diamond/darkness"},  
+    {"predicate": {"custom_model_data": 6370018},"model": "swords/diamond/light"},  
+    {"predicate": {"custom_model_data": 6370019},"model": "swords/diamond/moon"},  
+    {"predicate": {"custom_model_data": 6370020},"model": "swords/diamond/sun"},  
+    {"predicate": {"custom_model_data": 6370021},"model": "swords/diamond/poison"},  
+    {"predicate": {"custom_model_data": 6370022},"model": "swords/diamond/"},  
+    {"predicate": {"custom_model_data": 6370023},"model": "swords/diamond/vampire"}, 
+    {"predicate": {"custom_model_data": 6370024},"model": "swords/diamond/turtle"},  
+
+    {"predicate": {"custom_model_data": 6370025},"model": "swords/diamond/anvil"},  
+    {"predicate": {"custom_model_data": 6370026},"model": "swords/diamond/conduit"}  
+
+
+    ]
+}

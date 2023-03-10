@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_shovel"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 6370001},"model": "shovels/excavator"},
+    {"predicate": {"custom_model_data": 6370002},"model": "shovels/digger"},
+    {"predicate": {"custom_model_data": 6370003},"model": "shovels/magnetic"},
+    {"predicate": {"custom_model_data": 6370004},"model": "shovels/snow"},
+    {"predicate": {"custom_model_data": 6370005},"model": "shovels/path"}
+    ]
+}

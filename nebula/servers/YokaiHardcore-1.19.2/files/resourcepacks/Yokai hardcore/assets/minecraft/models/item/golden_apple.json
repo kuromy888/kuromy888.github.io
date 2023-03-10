@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/golden_apple"
+    },
+	"overrides": 
+	[
+                { "predicate": { "custom_model_data": 6370001}, "model": "apples/spectator"},
+                { "predicate": { "custom_model_data": 6370002}, "model": "apples/rotten"},
+                { "predicate": { "custom_model_data": 6370003}, "model": "apples/poison"},
+                
+                { "predicate": { "custom_model_data": 6370004}, "model": "apples/bone"},			
+                { "predicate": { "custom_model_data": 6370005}, "model": "apples/crying_obsidian"},			
+                { "predicate": { "custom_model_data": 6370006}, "model": "apples/dance"},			
+                { "predicate": { "custom_model_data": 6370007}, "model": "apples/egg"},			
+                { "predicate": { "custom_model_data": 6370008}, "model": "apples/flare"},			
+                { "predicate": { "custom_model_data": 6370009}, "model": "apples/glowstone"},			
+                { "predicate": { "custom_model_data": 6370010}, "model": "apples/nether"},			
+                { "predicate": { "custom_model_data": 6370011}, "model": "apples/potato"},			
+                { "predicate": { "custom_model_data": 6370012}, "model": "apples/slime"},			
+                { "predicate": { "custom_model_data": 6370013}, "model": "apples/tnt"},			
+                { "predicate": { "custom_model_data": 6370014}, "model": "apples/trap"}			
+                
+	]
+	
+}

@@ -1,0 +1,27 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-4, 2, -4, 8, 6, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-4, 0, -4, 8, 8, 8], "textureOffset": [32, 0], "sizeAdd": 0.25},
+				{"coordinates": [-3, 4, -4.25, 2, 2, 2], "textureOffset": [20, 60], "sizeAdd": -0.25},
+				{"coordinates": [-2.5, 2.75, -2.5, 5, 4, 5], "textureOffset": [0, 55], "sizeAdd": 0.25}
+			],
+			"submodels": [
+				{
+					"id": "jaw",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-3, 0, -4, 6, 2, 4], "textureOffset": [0, 14]}
+					]
+				}
+			]
+		}
+	]
+}

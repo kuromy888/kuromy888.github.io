@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "item/warped_fungus_on_a_stick"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "nyctocosm:items/scythe"},
+		{"predicate": {"custom_model_data":2}, "model": "nyctocosm:items/wyrmsliver"},
+		{"predicate": {"custom_model_data":3}, "model": "nyctocosm:items/wyrmsliver_casting"}
+	]
+}

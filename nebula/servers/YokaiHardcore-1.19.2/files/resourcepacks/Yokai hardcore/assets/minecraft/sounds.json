@@ -1,0 +1,218 @@
+{
+"dedsafio":{
+"sounds":[{"name":"custom/dedsafio/dedsafio","stream":false}],"category":"voice"},
+"ruleta":{
+"sounds":[{"name":"custom/ruleta/ruleta","stream":false}],"category":"voice"},
+"ruletasonido":{
+"sounds":[{"name":"custom/ruletasonido/ruletasonido","stream":false}],"category":"voice"},
+"minero":{
+"sounds":[{"name":"custom/ost/minero","stream":false}],"category":"voice"},
+"atraco":{
+"sounds":[{"name":"custom/ost/atraco","stream":false}],"category":"voice"},
+"jojo":{
+"sounds":[{"name":"custom/ost/jojo","stream":false}],"category":"voice"},
+"correr":{
+"sounds":[{"name":"custom/ost/correr","stream":false}],"category":"voice"},
+"sad":{
+"sounds":[{"name":"custom/ost/sad","stream":false}],"category":"voice"},
+"miedo":{
+"sounds":[{"name":"custom/ost/miedo","stream":false}],"category":"voice"},
+"terror":{
+"sounds":[{"name":"custom/ost/terror","stream":false}],"category":"voice"},
+	"stand.punch": {
+		"sounds": [
+			"stand/punch",
+			"stand/punch2",
+			"stand/punch3",
+			"stand/punch4"
+		]
+	},
+	"stand.punch_hit": {
+		"sounds": [
+			"stand/punch_hit",
+			"stand/punch_hit2",
+			"stand/punch_hit3"
+		]
+	},
+    "hamon.flow": {
+		"sounds": [
+			"hamon/flow"
+		]
+	},
+	"hamon.current": {
+		"sounds": [
+			"hamon/current"
+		]
+	},
+	"hamon.weak_current": {
+		"sounds": [
+			"hamon/weak_current"
+		]
+	},
+	"hamon.breath": {
+		"sounds": [
+			"hamon/breath",
+			"hamon/breath2"
+		]
+	},
+	"hamon.explode": {
+		"sounds": [
+			"hamon/explode",
+			"hamon/explode2"
+		]
+	},
+	"kng.predict": {
+		"sounds": [
+			"kng/predict"
+		]
+	},
+	"kng.skip": {
+		"sounds": [
+			"kng/skip"
+		]
+	},
+	"skf.sticky_fingaz": {
+		"sounds": [
+			"skf/sticky_fingaz"
+		]
+	},
+	"skf.summon": {
+		"sounds": [
+			"skf/zip",
+			"skf/zip2",
+			"skf/zip4"
+		]
+	},
+	"skf.unzip": {
+		"sounds": [
+			"skf/zip3"
+		]
+	},
+	"skf.rush": {
+		"sounds": [
+			"skf/zip_rush"
+		]
+	},
+	"skf.arii": {
+		"sounds": [
+			"skf/arii"
+		]
+	},
+	"skf.ariari": {
+		"sounds": [
+			"skf/ariariari"
+		]
+	},
+	"stand.summon": {
+		"sounds": [
+			"stand/summon",
+			"stand/summon2",
+			"stand/summon3"
+		]
+	},
+	"stand.retrieve": {
+		"sounds": [
+			"stand/retrieve"
+		]
+	},
+	"stand.pose": {
+		"sounds": [
+			"stand/pose"
+		]
+	},
+	"stand.timestop": {
+		"sounds": [
+			"stand/timestop"
+		]
+	},
+	"stand.timeresume": {
+		"sounds": [
+			"stand/timeresume"
+		]
+	},
+	"stand.timetick": {
+		"sounds": [
+			"stand/timetick",
+			"stand/timetick2",
+			"stand/timetick3",
+			"stand/timetick4",
+			"stand/timetick5"
+		]
+	},
+	"stand.powerpunch": {
+		"sounds": [
+			"stand/powerpunch",
+			"stand/powerpunch2",
+			"stand/powerpunch3"
+		]
+	},
+	"stp.ora": {
+		"sounds": [
+			"star_platinum/ora",
+			"star_platinum/ora2",
+			"star_platinum/ora3"
+		]
+	},
+	"stp.oraora": {
+		"sounds": [
+			"star_platinum/oraora",
+			"star_platinum/oraora2"
+		]
+	},
+	"stp.yareyare": {
+		"sounds": [
+			"star_platinum/yareyare",
+			"star_platinum/yareyare2",
+			"star_platinum/yareyare3"
+		]
+	},
+	"stp.name": {
+		"sounds": [
+			"star_platinum/star_platinum"
+		]
+	},
+	"stp.star_finger": {
+		"sounds": [
+			"star_platinum/star_finger"
+		]
+},
+     "multitude.theme": {
+              "sounds":[
+                        "multi/abominable_necrosis"
+                                    ]
+                   },
+     "soul.killed": {
+              "subtitle": "Soul leaves this world",
+              "sounds":[
+                        "multi/soul_killed"
+                                    ]
+                   },
+     "multitude.death": {
+              "subtitle": "Multitude disassembles",
+              "sounds":[
+                    {
+                       "name": "multi/multitude_death",
+                       "volume": 20
+                    }
+                                    ]
+                   },
+     "soul.roar": {
+              "subtitle": "Souls rage",
+              "sounds":[
+                        "multi/soul_roar"
+                                    ]
+                   },
+     "soul.hit": {
+              "subtitle": "Souls hurt",
+              "sounds":[
+                        "multi/soul_hit"
+                                    ]
+                   },
+     "multitude_spawns": {
+              "subtitle": "Souls gather into an abomination...",
+              "sounds":[
+                        "multi/multitude_spawns"
+                                    ]
+                   }
+	}
+}

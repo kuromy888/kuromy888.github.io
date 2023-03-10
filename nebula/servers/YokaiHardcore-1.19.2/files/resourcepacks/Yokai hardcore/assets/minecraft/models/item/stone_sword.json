@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stone_sword"
+  },
+  "overrides":
+[
+  {"predicate": {"custom_model_data": 6370001},"model": "swords/stone/butter"},
+  {"predicate": {"custom_model_data": 6370002},"model": "swords/stone/nametag"},
+  {"predicate": {"custom_model_data": 6370003},"model": "swords/stone/notch"},
+  {"predicate": {"custom_model_data": 6370004},"model": "swords/stone/sugar_crystal"},
+  {"predicate": {"custom_model_data": 6370005},"model": "swords/stone/egg"},
+  {"predicate": {"custom_model_data": 6370006},"model": "swords/stone/cactus"},
+  {"predicate": {"custom_model_data": 6370007},"model": "swords/stone/coal"},
+  {"predicate": {"custom_model_data": 6370008},"model": "swords/stone/coral"},
+
+  {"predicate": {"custom_model_data": 6370009},"model": "swords/stone/bookshelf"},
+  {"predicate": {"custom_model_data": 6370010},"model": "swords/stone/netherrack"},
+  {"predicate": {"custom_model_data": 6370011},"model": "swords/stone/pumpkin"},
+  {"predicate": {"custom_model_data": 6370012},"model": "swords/stone/melon"},
+  {"predicate": {"custom_model_data": 6370013},"model": "swords/stone/hay_bale"},
+  {"predicate": {"custom_model_data": 6370014},"model": "swords/stone/sea_pickle"},
+  {"predicate": {"custom_model_data": 6370015},"model": "swords/stone/brick"},
+  {"predicate": {"custom_model_data": 6370016},"model": "swords/stone/potato"},
+  {"predicate": {"custom_model_data": 6370017},"model": "swords/stone/diorite"},
+  {"predicate": {"custom_model_data": 6370018},"model": "swords/stone/granite"},
+  {"predicate": {"custom_model_data": 6370019},"model": "swords/stone/andesite"}
+
+  ]
+}

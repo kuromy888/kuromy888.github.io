@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "axes/throwing"
+	},
+	"display": {
+		"head": {
+			"rotation": [-131, -90, 0],
+			"translation": [0, -42.5, 0],
+			"scale": [1.58984, 1.58984, 1.58984]
+		}
+	}
+}

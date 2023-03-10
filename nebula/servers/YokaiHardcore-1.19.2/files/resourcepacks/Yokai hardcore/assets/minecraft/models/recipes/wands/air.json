@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "recipes/wands/air"
+	},
+	"display": {
+		"gui": {
+			"scale": [2, 2, 2]
+		}
+	}
+}

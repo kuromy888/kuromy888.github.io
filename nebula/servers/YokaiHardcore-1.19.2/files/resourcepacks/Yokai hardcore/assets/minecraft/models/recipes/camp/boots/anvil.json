@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "recipes/camp/boots/anvil"
+	},
+	"display": {
+		"gui": {
+			"scale": [2.0, 2.0, 2.0]
+		}
+	}
+}

@@ -1,0 +1,156 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/white_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/bottomtorso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/leftside"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/rightside"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/neck"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/topupperarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/bottomupperarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/toplowerarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/bottomlowerarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/topupperarm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/bottomupperarm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/toplowerarm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/bottomlowerarm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/hip"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/upperthigh"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/lowerthigh"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/uppershin"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/lowershin"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/hip2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/upperthigh2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/lowerthigh2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/uppershin2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "nyctocosm:mobs/death_walker/rig/lowershin2"
+		}
+	],
+	"aj": {
+		"includedRigs": {
+			"076391f6-d5bd-1751-a486-3fa9b6141c12": {
+				"name": "death_walker",
+				"usedIDs": [
+					[1, 23]
+				]
+			}
+		}
+	}
+}

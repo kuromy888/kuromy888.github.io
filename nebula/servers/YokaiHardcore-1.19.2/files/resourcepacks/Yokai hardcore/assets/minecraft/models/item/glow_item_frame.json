@@ -1,0 +1,49 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glow_item_frame"
+  },
+	"overrides": 
+	[
+
+
+    { "predicate": { "custom_model_data": 6371001}, "model": "tnt/block/template"},
+    { "predicate": { "custom_model_data": 6371002}, "model": "tnt/block/amethyst"},
+    { "predicate": { "custom_model_data": 6371003}, "model": "tnt/block/arrow"},
+    { "predicate": { "custom_model_data": 6371004}, "model": "tnt/block/bee"},
+    { "predicate": { "custom_model_data": 6371005}, "model": "tnt/block/magnetic"},
+    { "predicate": { "custom_model_data": 6371006}, "model": "tnt/block/tntnt"},
+    { "predicate": { "custom_model_data": 6371007}, "model": "tnt/block/sword"},
+    { "predicate": { "custom_model_data": 6371008}, "model": "tnt/block/inverted"},
+    { "predicate": { "custom_model_data": 6371009}, "model": "tnt/block/anvil"},
+    { "predicate": { "custom_model_data": 6371010}, "model": "tnt/block/cactus"},
+    { "predicate": { "custom_model_data": 6371011}, "model": "tnt/block/directional"},
+    { "predicate": { "custom_model_data": 6371012}, "model": "tnt/block/dripstone"},
+    { "predicate": { "custom_model_data": 6371013}, "model": "tnt/block/pickaxe"},
+    { "predicate": { "custom_model_data": 6371014}, "model": "tnt/block/potato"},
+    { "predicate": { "custom_model_data": 6371015}, "model": "tnt/block/slime"},
+    { "predicate": { "custom_model_data": 6371016}, "model": "tnt/block/sponge"},
+
+    { "predicate": { "custom_model_data": 6371017}, "model": "tnt/block/cow"},
+    { "predicate": { "custom_model_data": 6371018}, "model": "tnt/block/frost"},
+    { "predicate": { "custom_model_data": 6371019}, "model": "tnt/block/laser"},
+    { "predicate": { "custom_model_data": 6371020}, "model": "tnt/block/meteor"},
+    { "predicate": { "custom_model_data": 6371021}, "model": "tnt/block/poison"},
+    { "predicate": { "custom_model_data": 6371022}, "model": "tnt/block/tall"},
+    { "predicate": { "custom_model_data": 6371023}, "model": "tnt/block/tunnel"},
+    { "predicate": { "custom_model_data": 6371024}, "model": "tnt/block/wide"},
+
+    { "predicate": { "custom_model_data": 6371025}, "model": "tnt/block/tntntnt"},
+    { "predicate": { "custom_model_data": 6371026}, "model": "tnt/block/fake"},
+    { "predicate": { "custom_model_data": 6371027}, "model": "tnt/block/acid"},
+    { "predicate": { "custom_model_data": 6371028}, "model": "tnt/block/rocket"},
+    { "predicate": { "custom_model_data": 6371029}, "model": "tnt/block/potion"},
+    { "predicate": { "custom_model_data": 6371030}, "model": "tnt/block/blackhole"},
+    { "predicate": { "custom_model_data": 6371031}, "model": "tnt/block/antigravity"},
+    { "predicate": { "custom_model_data": 6371032}, "model": "tnt/block/sun"},
+    { "predicate": { "custom_model_data": 6371033}, "model": "tnt/block/impact"}
+
+
+	]
+	
+}

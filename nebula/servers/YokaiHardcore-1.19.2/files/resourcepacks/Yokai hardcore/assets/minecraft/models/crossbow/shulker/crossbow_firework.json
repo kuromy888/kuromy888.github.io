@@ -1,0 +1,6 @@
+{
+    "parent": "item/crossbow",
+    "textures": {
+        "layer0": "crossbow/shulker/crossbow_firework"
+    }
+}

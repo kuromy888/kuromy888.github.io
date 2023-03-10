@@ -1,0 +1,658 @@
+{
+    "nightmare_apparition.whisper": {
+        "sounds": [
+            "nyctocosm:mobs/nightmare_apparition/whisper1",
+            "nyctocosm:mobs/nightmare_apparition/whisper2",
+            "nyctocosm:mobs/nightmare_apparition/whisper3",
+            "nyctocosm:mobs/nightmare_apparition/whisper4",
+            "nyctocosm:mobs/nightmare_apparition/whisper5",
+            "nyctocosm:mobs/nightmare_apparition/whisper6",
+            "nyctocosm:mobs/nightmare_apparition/whisper7",
+            "nyctocosm:mobs/nightmare_apparition/whisper8",
+            "nyctocosm:mobs/nightmare_apparition/whisper9"
+        ],
+        "subtitle": "Nightmare Apparition whispers"
+    },
+    "nightmare_apparition.attack": {
+        "sounds": [
+            "nyctocosm:mobs/nightmare_apparition/attack1",
+            "nyctocosm:mobs/nightmare_apparition/attack2",
+            "nyctocosm:mobs/nightmare_apparition/attack3",
+            "nyctocosm:mobs/nightmare_apparition/attack4"
+        ],
+        "subtitle": "Nightmare Apparition attacks"
+    },
+    "nightmare_apparition.dissipate": {
+        "sounds": [
+            "nyctocosm:mobs/nightmare_apparition/dissipate"
+        ],
+        "subtitle": "Nightmare Apparition dissipates"
+    },
+    "death_walker.stomp": {
+        "sounds": [
+            "nyctocosm:mobs/death_walker/footstep1",
+            "nyctocosm:mobs/death_walker/footstep2",
+            "nyctocosm:mobs/death_walker/footstep3",
+            "nyctocosm:mobs/death_walker/footstep4"
+        ],
+        "subtitle": "Death Walker stomps"
+    },
+    "heartbeat": {
+        "sounds": [
+            "nyctocosm:heartbeat1",
+            "nyctocosm:heartbeat2",
+            "nyctocosm:heartbeat3",
+            "nyctocosm:heartbeat4",
+            "nyctocosm:heartbeat5",
+            "nyctocosm:heartbeat6"
+        ],
+        "subtitle": "Heartbeat"
+    },
+    "ambience.night_wastes.loop": {
+        "sounds": [
+            {
+                "name": "nyctocosm:biomes/night_wastes/ambience_loop",
+                "stream": true
+            }
+        ]
+    },
+    "dais.construct": {
+        "sounds": [
+            "nyctocosm:magic/dais/construct"
+        ],
+        "subtitle": "Dais is constructed"
+    },
+    "dais.inculcate": {
+        "sounds": [
+            "nyctocosm:magic/dais/inculcate"
+        ],
+        "subtitle": "Dais inculcates"
+    },
+    "dais.hum": {
+        "sounds": [
+            "nyctocosm:magic/dais/hum"
+        ],
+        "subtitle": "Dais thrums"
+    },
+    "spells.soul_release": {
+        "sounds": [
+            "nyctocosm:magic/soul_release"
+        ],
+        "subtitle": "Soul released"
+    },
+    "spells.ring.absorb": {
+        "sounds": [
+            "nyctocosm:magic/ring/absorb"
+        ],
+        "subtitle": "Ring absorbs soul"
+    },
+    "spells.soul_reap": {
+        "sounds": [
+            "nyctocosm:magic/soul_reap_1",
+            "nyctocosm:magic/soul_reap_2",
+            "nyctocosm:magic/soul_reap_3"
+        ],
+        "subtitle": "Soul reaped"
+    },
+    "spells.cast.magic_plane": {
+        "sounds": [
+            "nyctocosm:magic/spells/magic_plane/cast"
+        ],
+        "subtitle": "Spell plane cast"
+    },
+    "spells.hum.magic_plane": {
+        "sounds": [
+            "nyctocosm:magic/spells/magic_plane/loop"
+        ],
+        "subtitle": "Spell plane hums"
+    },
+    "spells.fizzle.magic_plane": {
+        "sounds": [
+            "nyctocosm:magic/spells/magic_plane/fizzle"
+        ],
+        "subtitle": "Spell plane fizzles"
+    },
+    "spells.cast.luminescence": {
+        "sounds": [
+            "nyctocosm:magic/spells/luminescence/cast"
+        ],
+        "subtitle": "Spell of Luminescence"
+    },
+    "spells.cast.resonance": {
+        "sounds": [
+            "nyctocosm:magic/spells/resonance/cast"
+        ],
+        "subtitle": "Spell of Resonance"
+    },
+    "spells.cast.evanescence": {
+        "sounds": [
+            "nyctocosm:magic/spells/evanescence/cast"
+        ],
+        "subtitle": "Spell of Evanescence"
+    },
+    "spells.cast.incurrence": {
+        "sounds": [
+            "nyctocosm:magic/spells/incurrence/cast"
+        ],
+        "subtitle": "Spell of Incurrence"
+    },
+    "spells.cast.abhorrence": {
+        "sounds": [
+            "nyctocosm:magic/spells/abhorrence/cast"
+        ],
+        "subtitle": "Spell of Abhorrence"
+    },
+    "spells.cast.forbiddance": {
+        "sounds": [
+            "nyctocosm:magic/spells/forbiddance/cast"
+        ],
+        "subtitle": "Spell of Forbiddance"
+    },
+    "spells.cast.gravitance": {
+        "sounds": [
+            "nyctocosm:magic/spells/gravitance/cast"
+        ],
+        "subtitle": "Spell of Gravitance"
+    },
+    "spells.cast.subsistence": {
+        "sounds": [
+            "nyctocosm:magic/spells/subsistence/cast"
+        ],
+        "subtitle": "Spell of Subsistence"
+    },
+    "spells.cast.reflectance": {
+        "sounds": [
+            "nyctocosm:magic/spells/reflectance/cast"
+        ],
+        "subtitle": "Spell of Reflectance"
+    },
+    "spells.cast.submergence": {
+        "sounds": [
+            "nyctocosm:magic/spells/submergence/cast"
+        ],
+        "subtitle": "Spell of Submergence"
+    },
+    "spells.cast.adamance": {
+        "sounds": [
+            "nyctocosm:magic/spells/adamance/cast"
+        ],
+        "subtitle": "Spell of Adamance"
+    },
+    "spells.cast.incandescence": {
+        "sounds": [
+            "nyctocosm:magic/spells/incandescence/cast"
+        ],
+        "subtitle": "Spell of Incandescence"
+    },
+    "spells.cast.resistance": {
+        "sounds": [
+            "nyctocosm:magic/spells/resistance/cast"
+        ],
+        "subtitle": "Spell of Resistance"
+    },
+    "spells.cast.transmittance": {
+        "sounds": [
+            "nyctocosm:magic/spells/transmittance/cast"
+        ],
+        "subtitle": "Spell of Transmittance"
+    },
+    "spells.cast.vacance": {
+        "sounds": [
+            "nyctocosm:magic/spells/vacance/cast"
+        ],
+        "subtitle": "Spell of Vacance"
+    },
+    "spells.transmutate.abhorrence": {
+        "sounds": [
+            "nyctocosm:magic/spells/abhorrence/transmutate"
+        ],
+        "subtitle": "Spell of Abhorrence transmutates"
+    },
+    "spells.transmutate.forbiddance": {
+        "sounds": [
+            "nyctocosm:magic/spells/forbiddance/transmutate"
+        ],
+        "subtitle": "Spell of Forbiddance transmutates"
+    },
+    "spells.transmutate.gravitance": {
+        "sounds": [
+            "nyctocosm:magic/spells/gravitance/transmutate"
+        ],
+        "subtitle": "Spell of Gravitance transmutates"
+    },
+    "spells.transmutate.subsistence": {
+        "sounds": [
+            "nyctocosm:magic/spells/subsistence/transmutate"
+        ],
+        "subtitle": "Spell of Subsistence transmutates"
+    },
+    "spells.transmutate.reflectance": {
+        "sounds": [
+            "nyctocosm:magic/spells/reflectance/transmutate"
+        ],
+        "subtitle": "Spell of Reflectance transmutates"
+    },
+    "spells.transmutate.adamance": {
+        "sounds": [
+            "nyctocosm:magic/spells/adamance/transmutate"
+        ],
+        "subtitle": "Spell of Adamance transmutates"
+    },
+    "spells.transmutate.incandescence": {
+        "sounds": [
+            "nyctocosm:magic/spells/incandescence/transmutate"
+        ],
+        "subtitle": "Spell of Incandescence transmutates"
+    },
+    "spells.transmutate.resistance": {
+        "sounds": [
+            "nyctocosm:magic/spells/resistance/transmutate"
+        ],
+        "subtitle": "Spell of Resistance transmutates"
+    },
+    "spells.transmutate.transmittance": {
+        "sounds": [
+            "nyctocosm:magic/spells/transmittance/transmutate"
+        ],
+        "subtitle": "Spell of Transmittance transmutates"
+    },
+    "spells.transmutate.vacance": {
+        "sounds": [
+            "nyctocosm:magic/spells/vacance/transmutate"
+        ],
+        "subtitle": "Spell of Vacance transmutates"
+    },
+    "spells.reflectance.dissipate": {
+        "sounds": [
+            "nyctocosm:magic/spells/reflectance/dissipate"
+        ],
+        "subtitle": "Spell of Reflectance dissipates"
+    },
+    "spells.adamance.dissipate": {
+        "sounds": [
+            "nyctocosm:magic/spells/adamance/dissipate"
+        ],
+        "subtitle": "Spell of Adamance dissipates"
+    },
+    "spells.vacance.dissipate": {
+        "sounds": [
+            "nyctocosm:magic/spells/vacance/dissipate"
+        ],
+        "subtitle": "Spell of Vacance dissipates"
+    },
+    "spells.impact.abhorrence": {
+        "sounds": [
+            "nyctocosm:magic/spells/abhorrence/impact"
+        ],
+        "subtitle": "Spell of Abhorrence impacts"
+    },
+    "spells.impact.forbiddance": {
+        "sounds": [
+            "nyctocosm:magic/spells/forbiddance/impact"
+        ],
+        "subtitle": "Spell of Forbiddance impacts"
+    },
+    "spells.impact.reflectance": {
+        "sounds": [
+            "nyctocosm:magic/spells/reflectance/impact"
+        ],
+        "subtitle": "Spell of Reflectance impacts"
+    },
+    "spells.impact.submergence": {
+        "sounds": [
+            "nyctocosm:magic/spells/submergence/impact"
+        ],
+        "subtitle": "Spell of Submergence impacts"
+    },
+    "spells.impact.incandescence": {
+        "sounds": [
+            "nyctocosm:magic/spells/incandescence/impact"
+        ],
+        "subtitle": "Spell of Incandescence impacts"
+    },
+    "spells.impact.transmittance": {
+        "sounds": [
+            "nyctocosm:magic/spells/transmittance/impact"
+        ],
+        "subtitle": "Spell of Transmittance impacts"
+    },
+    "spells.hum.gravitance": {
+        "sounds": [
+            "nyctocosm:magic/spells/gravitance/hum-01",
+            "nyctocosm:magic/spells/gravitance/hum-02",
+            "nyctocosm:magic/spells/gravitance/hum-03",
+            "nyctocosm:magic/spells/gravitance/hum-04"
+        ],
+        "subtitle": "Spell of Gravitance hums"
+    },
+    "boss.destroy": {
+        "sounds": [
+            "nyctocosm:boss_destroy"
+        ],
+        "subtitle": "Major Adversary destroyed"
+    },
+    "boss.music.serpent.loop": {
+        "sounds": [
+            {
+                "name": "nyctocosm:serpent/serpent_music_loop",
+                "stream": true
+            }
+        ]
+    },
+    "boss.music.serpent.end": {
+        "sounds": [
+            {
+                "name": "nyctocosm:serpent/serpent_music_end",
+                "stream": true
+            }
+        ]
+    },
+    "serpent.scream": {
+        "sounds": [
+            "nyctocosm:serpent/scream1",
+            "nyctocosm:serpent/scream2",
+            "nyctocosm:serpent/scream3"
+        ],
+        "subtitle": "Nightmare serpent screams"
+    },
+    "serpent.woosh": {
+        "sounds": [
+            "nyctocosm:serpent/woosh1",
+            "nyctocosm:serpent/woosh2",
+            "nyctocosm:serpent/woosh3",
+            "nyctocosm:serpent/woosh4",
+            "nyctocosm:serpent/woosh5",
+            "nyctocosm:serpent/woosh6"
+        ],
+        "subtitle": "Nightmare serpent soars"
+    },
+    "serpent.death": {
+        "sounds": [
+            "nyctocosm:serpent/death"
+        ],
+        "subtitle": "Nightmare serpent is defeated"
+    },
+    "serpent.dive": {
+        "sounds": [
+            "nyctocosm:serpent/dive"
+        ],
+        "subtitle": "Nightmare serpent dives"
+    },
+    "serpent.rumble": {
+        "sounds": [
+            "nyctocosm:serpent/rumble_-1",
+            "nyctocosm:serpent/rumble_-2",
+            "nyctocosm:serpent/rumble_-3",
+            "nyctocosm:serpent/rumble_-4",
+            "nyctocosm:serpent/rumble_-5",
+            "nyctocosm:serpent/rumble_-6",
+            "nyctocosm:serpent/rumble_-7",
+            "nyctocosm:serpent/rumble_-8",
+            "nyctocosm:serpent/rumble_-9",
+            "nyctocosm:serpent/rumble_-10",
+            "nyctocosm:serpent/rumble_-11",
+            "nyctocosm:serpent/rumble_-12"
+        ],
+        "subtitle": "Nightmare serpent tunnels"
+    },
+    "serpent.breach": {
+        "sounds": [
+            {
+                "name": "nyctocosm:serpent/breach",
+                "pitch": 1
+            },
+            {
+                "name": "nyctocosm:serpent/breach",
+                "pitch": 1.1
+            },
+            {
+                "name": "nyctocosm:serpent/breach",
+                "pitch": 0.9
+            },
+            {
+                "name": "nyctocosm:serpent/breach2",
+                "pitch": 1
+            },
+            {
+                "name": "nyctocosm:serpent/breach2",
+                "pitch": 1.1
+            },
+            {
+                "name": "nyctocosm:serpent/breach2",
+                "pitch": 0.9
+            },
+            {
+                "name": "nyctocosm:serpent/breach3",
+                "pitch": 1
+            },
+            {
+                "name": "nyctocosm:serpent/breach3",
+                "pitch": 1.1
+            },
+            {
+                "name": "nyctocosm:serpent/breach3",
+                "pitch": 0.9
+            },
+            {
+                "name": "nyctocosm:serpent/breach4",
+                "pitch": 1
+            },
+            {
+                "name": "nyctocosm:serpent/breach4",
+                "pitch": 1.1
+            },
+            {
+                "name": "nyctocosm:serpent/breach4",
+                "pitch": 0.9
+            }
+        ],
+        "subtitle": "Nightmare serpent breaches the ground"
+    },
+    "serpent.incur": {
+        "sounds": [
+            "nyctocosm:serpent/incur"
+        ],
+        "subtitle": "Nightmare serpent is incurred"
+    },
+    "serpent.beam.shoot": {
+        "sounds": [
+            "nyctocosm:serpent/beam_shoot"
+        ],
+        "subtitle": "Nightmare energy beam shoots"
+    },
+    "serpent.beam.charge": {
+        "sounds": [
+            "nyctocosm:serpent/beam_charge"
+        ],
+        "subtitle": "Nightmare energy beam charges"
+    },
+    "serpent.hurt": {
+        "sounds": [
+            {
+                "name": "nyctocosm:serpent/hurt1",
+                "pitch": 1
+            },
+            {
+                "name": "nyctocosm:serpent/hurt1",
+                "pitch": 0.8
+            },
+            {
+                "name": "nyctocosm:serpent/hurt1",
+                "pitch": 1.2
+            },
+            {
+                "name": "nyctocosm:serpent/hurt2",
+                "pitch": 1
+            },
+            {
+                "name": "nyctocosm:serpent/hurt2",
+                "pitch": 0.8
+            },
+            {
+                "name": "nyctocosm:serpent/hurt2",
+                "pitch": 1.2
+            },
+            {
+                "name": "nyctocosm:serpent/hurt3",
+                "pitch": 1
+            },
+            {
+                "name": "nyctocosm:serpent/hurt3",
+                "pitch": 0.8
+            },
+            {
+                "name": "nyctocosm:serpent/hurt3",
+                "pitch": 1.2
+            }
+        ],
+        "subtitle": "Nightmare serpent hurts"
+    },
+    "serpent.laser": {
+        "sounds": [
+            "nyctocosm:serpent/laser"
+        ],
+        "subtitle": "Nightmare serpent shoots"
+    },
+    "serpent.defeat": {
+        "sounds": [
+            "nyctocosm:serpent/defeat"
+        ],
+        "subtitle": "Nightmare serpent dies"
+    },
+    "ambience.night_wastes.additions": {
+        "sounds": [
+            "nyctocosm:biomes/night_wastes/additions/wind1",
+            "nyctocosm:biomes/night_wastes/additions/wind2",
+            "nyctocosm:biomes/night_wastes/additions/wind3",
+            "nyctocosm:biomes/night_wastes/additions/wind4",
+            "nyctocosm:biomes/night_wastes/additions/wind5",
+            "nyctocosm:biomes/night_wastes/additions/wind6",
+            "nyctocosm:biomes/night_wastes/additions/breath1",
+            "nyctocosm:biomes/night_wastes/additions/breath2",
+            "nyctocosm:biomes/night_wastes/additions/breath3",
+            "nyctocosm:biomes/night_wastes/additions/breath4",
+            "nyctocosm:biomes/night_wastes/additions/breath5",
+            "nyctocosm:biomes/night_wastes/additions/breath6",
+            {
+                "name": "nyctocosm:biomes/night_wastes/additions/hit4",
+                "volume": 0.2
+            },
+            {
+                "name": "nyctocosm:biomes/night_wastes/additions/hit5",
+                "volume": 0.2
+            },
+            {
+                "name": "nyctocosm:biomes/night_wastes/additions/hit6",
+                "volume": 0.2
+            }
+        ]
+    },
+    "ambience.night_wastes.mood": {
+        "sounds": [
+            "nyctocosm:biomes/night_wastes/mood/hit1",
+            "nyctocosm:biomes/night_wastes/mood/hit1",
+            "nyctocosm:biomes/night_wastes/mood/hit3",
+            "nyctocosm:biomes/night_wastes/mood/whoosh1",
+            "nyctocosm:biomes/night_wastes/mood/whoosh2"
+        ]
+    },
+    "portal.external_resonance.first": {
+        "sounds": [
+            "nyctocosm:portal/external_resonance_first"
+        ],
+        "subtitle": "Portal resonates"
+    },
+    "portal.external_resonance.second": {
+        "sounds": [
+            "nyctocosm:portal/external_resonance_second"
+        ],
+        "subtitle": "Portal resonates"
+    },
+    "portal.external_resonance.third": {
+        "sounds": [
+            "nyctocosm:portal/external_resonance_third"
+        ],
+        "subtitle": "Portal resonates"
+    },
+    "portal.external_resonance.collapse.first": {
+        "sounds": [
+            "nyctocosm:portal/external_resonance_collapse_first"
+        ],
+        "subtitle": "Portal resonance collapses"
+    },
+    "portal.external_resonance.collapse.second": {
+        "sounds": [
+            "nyctocosm:portal/external_resonance_collapse_second"
+        ],
+        "subtitle": "Portal resonance collapses"
+    },
+    "portal.external_resonance.collapse.third": {
+        "sounds": [
+            "nyctocosm:portal/external_resonance_collapse_third"
+        ],
+        "subtitle": "Dimensional membrane extruded"
+    },
+    "portal.hum": {
+        "sounds": [
+            {
+                "name": "nyctocosm:portal/hum_loop",
+                "volume": 0.05,
+                "attenuation_distance": 50
+            }
+        ],
+        "subtitle": "Portal energy fluctuates"
+    },
+    "portal.deactivate": {
+        "sounds": [
+            "nyctocosm:portal/portal_deactivate"
+        ],
+        "subtitle": "Dimensional manifolds reintegrated"
+    },
+    "items.scythe.dash": {
+        "sounds": [
+            "nyctocosm:items/scythe/dash"
+        ],
+        "subtitle": "Soulstep"
+    },
+    "items.wyrmsliver.slash": {
+        "sounds": [
+            "nyctocosm:items/wyrmsliver/slash1",
+            {
+                "name": "nyctocosm:items/wyrmsliver/slash1",
+                "pitch": 0.9
+            },
+            {
+                "name": "nyctocosm:items/wyrmsliver/slash1",
+                "pitch": 1.1
+            },
+            "nyctocosm:items/wyrmsliver/slash2",
+            {
+                "name": "nyctocosm:items/wyrmsliver/slash2",
+                "pitch": 0.9
+            },
+            {
+                "name": "nyctocosm:items/wyrmsliver/slash2",
+                "pitch": 1.1
+            },
+            "nyctocosm:items/wyrmsliver/slash3",
+            {
+                "name": "nyctocosm:items/wyrmsliver/slash3",
+                "pitch": 0.9
+            },
+            {
+                "name": "nyctocosm:items/wyrmsliver/slash3",
+                "pitch": 1.1
+            },
+            "nyctocosm:items/wyrmsliver/slash4",
+            {
+                "name": "nyctocosm:items/wyrmsliver/slash4",
+                "pitch": 0.9
+            },
+            {
+                "name": "nyctocosm:items/wyrmsliver/slash4",
+                "pitch": 1.1
+            }
+        ],
+        "subtitle": "Nightmare energy discharged"
+    }
+}

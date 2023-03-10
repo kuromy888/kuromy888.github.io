@@ -1,0 +1,144 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "abilities",
+            "prefix": "abilities/"
+        },
+        {
+            "type": "directory",
+            "source": "apples",
+            "prefix": "apples/"
+        },
+        {
+            "type": "directory",
+            "source": "axes",
+            "prefix": "axes/"
+        },
+        {
+            "type": "directory",
+            "source": "boots",
+            "prefix": "boots/"
+        },
+        {
+            "type": "directory",
+            "source": "bows",
+            "prefix": "bows/"
+        },
+        {
+            "type": "directory",
+            "source": "camp",
+            "prefix": "camp/"
+        },
+        {
+            "type": "directory",
+            "source": "crafter",
+            "prefix": "crafter/"
+        },
+        {
+            "type": "directory",
+            "source": "crossbow",
+            "prefix": "crossbow/"
+        },
+        {
+            "type": "directory",
+            "source": "datapacks",
+            "prefix": "datapacks/"
+        },
+        {
+            "type": "directory",
+            "source": "diamonds",
+            "prefix": "diamonds/"
+        },
+        {
+            "type": "directory",
+            "source": "hammer",
+            "prefix": "hammer/"
+        },
+        {
+            "type": "directory",
+            "source": "helmets",
+            "prefix": "helmets/"
+        },
+        {
+            "type": "directory",
+            "source": "item",
+            "prefix": "item/"
+        },
+        {
+            "type": "directory",
+            "source": "machine",
+            "prefix": "machine/"
+        },
+        {
+            "type": "directory",
+            "source": "pearl",
+            "prefix": "pearl/"
+        },
+        {
+            "type": "directory",
+            "source": "pick",
+            "prefix": "pick/"
+        },
+        {
+            "type": "directory",
+            "source": "random",
+            "prefix": "random/"
+        },
+        {
+            "type": "directory",
+            "source": "recipes",
+            "prefix": "recipes/"
+        },
+        {
+            "type": "directory",
+            "source": "redstone",
+            "prefix": "redstone/"
+        },
+        {
+            "type": "directory",
+            "source": "rupee",
+            "prefix": "rupee/"
+        },
+        {
+            "type": "directory",
+            "source": "security",
+            "prefix": "security/"
+        },
+        {
+            "type": "directory",
+            "source": "shovels",
+            "prefix": "shovels/"
+        },
+        {
+            "type": "directory",
+            "source": "swords",
+            "prefix": "swords/"
+        },
+        {
+            "type": "directory",
+            "source": "tnt",
+            "prefix": "tnt/"
+        },
+        {
+            "type": "directory",
+            "source": "totem",
+            "prefix": "totem/"
+        },
+        {
+            "type": "directory",
+            "source": "totems",
+            "prefix": "totems/"
+        },
+        {
+            "type": "directory",
+            "source": "wands",
+            "prefix": "wands/"
+        },
+        {
+            "type": "directory",
+            "source": "zelda",
+            "prefix": "zelda/"
+        }   
+    ]
+}

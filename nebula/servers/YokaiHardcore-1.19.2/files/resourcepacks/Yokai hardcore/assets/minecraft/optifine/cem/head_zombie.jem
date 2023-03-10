@@ -1,0 +1,32 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, 0, -0.75],
+			"boxes": [
+				{"coordinates": [-4, 2, -4, 8, 6, 8], "textureOffset": [0, 0]}
+			],
+			"submodels": [
+				{
+					"id": "headwear",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0.75],
+					"boxes": [
+						{"coordinates": [-4, 0, -4.75, 8, 8, 8], "textureOffset": [32, 0], "sizeAdd": 0.25}
+					]
+				},
+				{
+					"id": "jaw",
+					"invertAxis": "xy",
+					"translate": [0, 0.5, 0],
+					"boxes": [
+						{"coordinates": [-3, -0.75, -4.5, 6, 4, 5], "textureOffset": [40, 50]}
+					]
+				}
+			]
+		}
+	]
+}

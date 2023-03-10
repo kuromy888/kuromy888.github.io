@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_shovel"
+    },
+    "overrides":
+	[
+        {"predicate": {"custom_model_data": 6370001},"model": "shovels/diamond_excavator"},
+        {"predicate": {"custom_model_data": 6370002},"model": "shovels/diamond_digger"},
+        {"predicate": {"custom_model_data": 6370003},"model": "shovels/molten"},
+        {"predicate": {"custom_model_data": 6370004},"model": "shovels/giant_diamond"},
+        {"predicate": {"custom_model_data": 6370005},"model": "shovels/weedkiller"}
+        ]
+}

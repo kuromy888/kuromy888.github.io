@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_axe"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 6370001},"model": "axe/berserker"},
+    {"predicate": {"custom_model_data": 6370002},"model": "axe/magnetic"}
+    ]
+}

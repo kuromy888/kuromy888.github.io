@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/amethyst_shard"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 974001
+      },
+      "model": "lostworld:item/sharded_reality"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 974030
+      },
+      "model": "lostworld:item/spellbound_crystal"
+    }
+  ]
+}

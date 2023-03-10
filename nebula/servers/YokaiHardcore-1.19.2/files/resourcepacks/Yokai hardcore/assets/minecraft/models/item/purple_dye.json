@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/bone"
+	},
+	"overrides": [
+                                { "predicate": {"custom_model_data":111111}, "model": "item/multi/dark_eye"}
+	]
+}

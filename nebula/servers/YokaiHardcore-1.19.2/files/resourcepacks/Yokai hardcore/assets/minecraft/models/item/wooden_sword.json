@@ -1,0 +1,38 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_sword"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 6370001},"model": "swords/wooden/sponge"},
+    {"predicate": {"custom_model_data": 6370002},"model": "swords/wooden/ice"},
+    {"predicate": {"custom_model_data": 6370003},"model": "swords/wooden/random"},
+    {"predicate": {"custom_model_data": 6370004},"model": "swords/wooden/obsidian"},
+    {"predicate": {"custom_model_data": 6370005},"model": "swords/wooden/slime"},
+    {"predicate": {"custom_model_data": 6370006},"model": "swords/wooden/stick"},
+    {"predicate": {"custom_model_data": 6370007},"model": "swords/wooden/bread"},
+    {"predicate": {"custom_model_data": 6370008},"model": "swords/wooden/wet_sponge"},
+    {"predicate": {"custom_model_data": 6370009},"model": "swords/wooden/soil"},
+
+
+    {"predicate": {"custom_model_data": 6370010},"model": "swords/wooden/sand"},
+    {"predicate": {"custom_model_data": 6370011},"model": "swords/wooden/snow"},
+    {"predicate": {"custom_model_data": 6370012},"model": "swords/wooden/mycelium"},
+    {"predicate": {"custom_model_data": 6370013},"model": "swords/wooden/sapling"},
+    {"predicate": {"custom_model_data": 6370014},"model": "swords/wooden/bamboo"},
+    {"predicate": {"custom_model_data": 6370015},"model": "swords/wooden/sign"},
+    {"predicate": {"custom_model_data": 6370016},"model": "swords/wooden/moss"},
+    {"predicate": {"custom_model_data": 6370017},"model": "swords/wooden/flower_pot"},
+    {"predicate": {"custom_model_data": 6370018},"model": "swords/wooden/glow_berry"},
+    {"predicate": {"custom_model_data": 6370019},"model": "swords/wooden/carrot"}
+
+
+
+
+
+
+
+
+    ]
+}

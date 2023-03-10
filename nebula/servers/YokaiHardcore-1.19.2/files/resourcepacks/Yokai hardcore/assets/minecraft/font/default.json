@@ -1,0 +1,1224 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF801"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF802"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uF803"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uF804"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uF805"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uF806"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uF807"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uF808"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uF809"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uF80A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uF80B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uF80C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uF80D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uF80E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uF80F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uF800"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uF821"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uF822"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uF823"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uF824"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uF825"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uF826"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uF827"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uF828"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uF829"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uF82A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uF82B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uF82C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uF82D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uF82E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uF82F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uF820"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF811"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF812"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uF813"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uF814"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uF815"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uF816"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uF817"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uF818"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uF819"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uF81A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uF81B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uF81C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uF81D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uF81E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uF81F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uF810"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uF831"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uF832"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uF833"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uF834"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uF835"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uF836"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uF837"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uF838"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uF839"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uF83A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uF83B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uF83C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uF83D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uF83E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uF83F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uF830"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0001.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0002.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0003.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0004.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0005.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0006.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0007.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0008.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0009.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0010.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0011.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0012.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0013.png",
+            "ascent": 35,
+            "height": 50,
+            "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0014.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0015.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0016.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE015"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0017.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE016"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0018.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE017"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0019.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE018"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0020.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE019"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0021.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE020"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0022.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE021"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0023.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE022"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0024.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE023"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0025.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE024"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0026.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE025"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0027.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE026"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0028.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE027"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0029.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE028"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0030.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE029"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0031.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE030"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0032.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE031"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0033.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE032"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0034.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE033"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0035.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE034"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0036.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE035"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0037.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE036"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0038.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE037"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0039.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE038"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0040.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE039"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0041.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE040"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0042.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE041"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0043.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE042"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0044.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE043"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0045.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE044"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0046.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE045"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0047.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE046"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0048.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE047"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0049.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE048"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0050.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE049"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0051.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE050"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0052.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE051"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0053.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE052"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0054.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE053"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0055.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE054"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0056.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE055"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0057.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE056"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0058.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE057"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0059.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE058"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0060.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE059"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0061.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE060"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0062.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE061"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0063.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE062"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0064.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE063"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0065.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE064"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0066.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE065"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0067.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE066"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0068.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE067"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0069.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE068"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0070.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE069"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0071.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE070"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0072.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE071"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0073.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE072"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0074.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE073"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0075.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE074"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0076.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE075"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0077.png",
+            "ascent": 124,
+            "height": 256,
+            "chars": ["\uE076"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0078.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE077"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0079.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE078"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0080.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE079"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0081.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE080"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0082.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE081"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0083.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE082"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0084.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE083"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0085.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE084"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0086.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE085"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0087.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE086"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0088.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE087"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0089.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE088"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0090.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE089"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0091.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE090"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:0092.png",
+            "ascent": 35,
+            "height": 55,
+            "chars": ["\uE091"]
+             }
+        ]
+}

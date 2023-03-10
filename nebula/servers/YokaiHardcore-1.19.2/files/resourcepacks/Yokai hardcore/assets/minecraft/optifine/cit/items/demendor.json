@@ -1,0 +1,96 @@
+{
+	"credit": "Made with Blockbench",
+  "texture_size": [32,32],
+  "textures":{
+          "1": "items/demendor"
+	},
+	"elements": [
+		{
+			"from": [3.5, 4.7, 2.9],
+			"to": [7.4, 7.2, 7.95],
+			"faces": {
+				"north": {"uv": [6.15625, 4, 8.40625, 5.5], "texture": "#1"},
+				"east": {"uv": [4.46875, 7.025, 6.81875, 15.99375], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [9.4, 1.9875, 13.06875, 6.90625], "texture": "#1"},
+				"west": {"uv": [10.175, 7.05, 12.59375, 15.90625], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [12.65625, 7.0625, 15.5625, 16], "texture": "#1"},
+				"down": {"uv": [6.89375, 7, 10.1875, 15.95], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4.35, 5.6, -0.25],
+			"to": [6.75, 8.25, 2.7],
+			"faces": {
+				"north": {"uv": [1.34375, 3.0625, 3.65625, 6.96875], "texture": "#1"},
+				"east": {"uv": [0.0625, 3, 1.34375, 6.9375], "texture": "#1"},
+				"south": {"uv": [3.6875, 0.4375, 5.1875, 1.9375], "texture": "#1"},
+				"west": {"uv": [3.65625, 3.09375, 4.96875, 6.96875], "texture": "#1"},
+				"up": {"uv": [1.46875, 0, 3.5625, 3], "texture": "#1"},
+				"down": {"uv": [3.59375, 0, 5.46875, 3.03125], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [68, 360, 15],
+			"translation": [0.25,-0.5, 14.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [68, 360, 5],
+			"translation": [1, 1, 17]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 14],
+			"translation": [0, 6.75, 7.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 14],
+			"translation": [0, 6.75, 9]
+		},
+		"ground": {
+			"translation": [0.75, 0.5, 0]
+		},
+		"gui": {
+			"rotation": [7, 11, 0],
+			"translation": [1.5, -1.5, 0],
+			"scale": [1.36, 1.36, 1.36]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [-1.25, 11.25, 0],
+			"scale": [1.36, 1.36, 1.36]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [2.5, 0, -10.75],
+			"scale": [2.36, 2.36, 2.36]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 1, 0],
+			"color": 0,
+			"children": [
+				0,
+				1,
+				2,
+				3,
+				{
+					"name": "group",
+					"origin": [1, 4.25425, -0.17234],
+					"color": 0,
+					"children": [4]
+				},
+				{
+					"name": "group",
+					"origin": [1, 4.25425, -0.17234],
+					"color": 0,
+					"children": [5]
+				},
+				6,
+				7
+			]
+		}
+	]
+}

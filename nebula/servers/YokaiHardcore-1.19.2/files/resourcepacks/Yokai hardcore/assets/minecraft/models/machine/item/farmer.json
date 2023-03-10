@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "machine/item/farmer"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 3.75, 1.5],
+			"scale": [0.62, 0.62, 0.62]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 3.75, 1.5],
+			"scale": [0.62, 0.62, 0.62]
+		}
+	}
+}

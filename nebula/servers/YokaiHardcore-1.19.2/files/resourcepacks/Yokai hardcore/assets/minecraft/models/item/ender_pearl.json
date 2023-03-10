@@ -1,0 +1,37 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/ender_pearl"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 6370001},"model": "pearl/fast"},
+    {"predicate": {"custom_model_data": 6370002},"model": "pearl/slow"},
+    {"predicate": {"custom_model_data": 6370003},"model": "pearl/hanging"},
+    {"predicate": {"custom_model_data": 6370004},"model": "pearl/infested"},
+    {"predicate": {"custom_model_data": 6370005},"model": "pearl/instant"},
+    {"predicate": {"custom_model_data": 6370006},"model": "pearl/ninja"},
+    {"predicate": {"custom_model_data": 6370007},"model": "pearl/no_gravity"},
+    {"predicate": {"custom_model_data": 6370008},"model": "pearl/swap"},
+    {"predicate": {"custom_model_data": 6370009},"model": "pearl/party"},
+    {"predicate": {"custom_model_data": 6370010},"model": "pearl/drop"},
+
+    {"predicate": {"custom_model_data": 6370011},"model": "pearl/chorus"},
+    {"predicate": {"custom_model_data": 6370012},"model": "pearl/cursed"},
+    {"predicate": {"custom_model_data": 6370013},"model": "pearl/dragons_breath"},
+    {"predicate": {"custom_model_data": 6370014},"model": "pearl/golden"},
+    {"predicate": {"custom_model_data": 6370015},"model": "pearl/enchanted_golden"},
+    {"predicate": {"custom_model_data": 6370016},"model": "pearl/fireball"},
+    {"predicate": {"custom_model_data": 6370017},"model": "pearl/honey"},
+    {"predicate": {"custom_model_data": 6370019},"model": "pearl/safety"},
+    {"predicate": {"custom_model_data": 6370020},"model": "pearl/slime"},
+
+    {"predicate": {"custom_model_data": 6370021},"model": "pearl/freeze"},
+    {"predicate": {"custom_model_data": 6370022},"model": "pearl/ghost"},
+    {"predicate": {"custom_model_data": 6370023},"model": "pearl/magnetic"},
+    {"predicate": {"custom_model_data": 6370024},"model": "pearl/troll"},
+    {"predicate": {"custom_model_data": 6370025},"model": "pearl/sugar"},
+    {"predicate": {"custom_model_data": 6370026},"model": "pearl/star"}
+
+    ]
+}

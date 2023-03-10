@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+  "overrides":
+[
+  {"predicate": {"custom_model_data": 6371001},"model": "swords/netherite/enhanced_diamond"},
+  {"predicate": {"custom_model_data": 6371003},"model": "swords/netherite/star"},
+  {"predicate": {"custom_model_data": 6371004},"model": "swords/netherite/wither"},
+  {"predicate": {"custom_model_data": 6371005},"model": "swords/netherite/xp_star"},
+  {"predicate": {"custom_model_data": 6371006},"model": "swords/netherite/random1"},
+  {"predicate": {"custom_model_data": 6371007},"model": "swords/netherite/random2"},
+  {"predicate": {"custom_model_data": 6371008},"model": "swords/netherite/random3"},
+  {"predicate": {"custom_model_data": 6371009},"model": "swords/netherite/random4"},
+  {"predicate": {"custom_model_data": 6371010},"model": "swords/netherite/random5"},
+
+  {"predicate": {"custom_model_data": 6371011},"model": "swords/netherite/beacon"},
+  {"predicate": {"custom_model_data": 6371012},"model": "swords/netherite/tuff"}
+
+
+
+
+  ]
+}

@@ -1,0 +1,914 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_093.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE092"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_094.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE093"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_095.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE094"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_096.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE095"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_097.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE096"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_098.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE097"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_099.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE098"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_100.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE099"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_101.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE100"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_102.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE101"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_103.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE102"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_104.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE103"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_105.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE104"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_106.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE105"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_107.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE106"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_108.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE107"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_109.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE108"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_110.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE109"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_111.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE110"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_112.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE111"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_113.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE112"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_114.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE113"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_115.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE114"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_116.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE115"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_117.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE116"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_118.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE117"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_119.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE118"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_120.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE119"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_121.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE120"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_122.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE121"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_123.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE122"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_124.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE123"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_125.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE124"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_126.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE125"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_127.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE126"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_128.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE127"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_129.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE128"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_130.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE129"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_131.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE130"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_132.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE131"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_133.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE132"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_134.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE133"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_135.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE134"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_136.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE135"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_137.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE136"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_138.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE137"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_139.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE138"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_140.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE139"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_141.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE140"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_142.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE141"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_143.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE142"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_144.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE143"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_145.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE144"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_146.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE145"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_147.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE146"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_148.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE147"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_149.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE148"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_150.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE149"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_151.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE150"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_152.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE151"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_153.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE152"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_154.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE153"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_155.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE154"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_156.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE155"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_157.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE156"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_158.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE157"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_159.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE158"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_160.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE159"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_161.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE160"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_162.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE161"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_163.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE162"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_164.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE163"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_165.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE164"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_166.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE165"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_167.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE166"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_168.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE167"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_169.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE168"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_170.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE169"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_171.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE170"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_172.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE171"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_173.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE172"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_174.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE173"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_175.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE174"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_176.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE175"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_177.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE176"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_178.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE177"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_179.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE178"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_180.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE179"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_181.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE180"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_182.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE181"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_183.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE182"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_184.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE183"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_185.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE184"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_186.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE185"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_187.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE186"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_188.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE187"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_189.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE188"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_190.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE189"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_191.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE190"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_192.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE191"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_193.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE192"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_194.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE193"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_195.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE194"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_196.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE195"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_197.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE196"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_198.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE197"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_199.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE198"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_200.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE199"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_201.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE200"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_202.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE201"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_203.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE202"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_204.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE203"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_205.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE204"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_206.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE205"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_207.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE206"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_208.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE207"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_209.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE208"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_210.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE209"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_211.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE210"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_212.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE211"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_213.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE212"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_214.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE213"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_215.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE214"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_216.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE215"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_217.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE216"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_218.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE217"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_219.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE218"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_220.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE219"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_221.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE220"]
+             },
+             {
+            "type": "bitmap",
+            "file": "minecraft:custom/muerte_222.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": ["\uE221"]
+             }
+        ]
+}

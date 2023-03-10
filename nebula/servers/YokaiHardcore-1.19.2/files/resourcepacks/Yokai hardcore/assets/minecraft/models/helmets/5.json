@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "helmets/blank",
+        "layer1": "helmets/5"
+    }
+}

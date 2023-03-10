@@ -1,0 +1,26 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_pickaxe"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 6370001},"model": "hammer/iron"},
+    
+    {"predicate": {"custom_model_data": 6370003},"model": "pick/firework"},
+    {"predicate": {"custom_model_data": 6370004},"model": "pick/pillow"},
+    {"predicate": {"custom_model_data": 6370005},"model": "pick/magnetic"},
+    {"predicate": {"custom_model_data": 6370006},"model": "pick/redstone"},
+    {"predicate": {"custom_model_data": 6370007},"model": "pick/end_crystal"},
+
+    {"predicate": {"custom_model_data": 6370008},"model": "pick/strip"},
+    {"predicate": {"custom_model_data": 6370009},"model": "pick/tunnel"},
+    {"predicate": {"custom_model_data": 6370010},"model": "pick/torch"},
+
+    {"predicate": {"custom_model_data": 6370011},"model": "pick/bookshelf"},
+    {"predicate": {"custom_model_data": 6370012},"model": "pick/cake"},
+    {"predicate": {"custom_model_data": 6370013},"model": "pick/creeper"}
+
+
+    ]
+}

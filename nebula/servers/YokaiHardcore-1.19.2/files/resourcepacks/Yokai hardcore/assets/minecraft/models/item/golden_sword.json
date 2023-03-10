@@ -1,0 +1,36 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_sword"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 6370001},"model": "swords/golden/glass"},
+    {"predicate": {"custom_model_data": 6370002},"model": "swords/golden/tnt"},
+    {"predicate": {"custom_model_data": 6370003},"model": "swords/golden/paper"},
+    {"predicate": {"custom_model_data": 6370004},"model": "swords/golden/lightning"},
+
+    {"predicate": {"custom_model_data": 6370005},"model": "swords/golden/stained_glass/black"},
+    {"predicate": {"custom_model_data": 6370006},"model": "swords/golden/stained_glass/blue"},
+    {"predicate": {"custom_model_data": 6370007},"model": "swords/golden/stained_glass/brown"},
+    {"predicate": {"custom_model_data": 6370008},"model": "swords/golden/stained_glass/cyan"},
+    {"predicate": {"custom_model_data": 6370009},"model": "swords/golden/stained_glass/gray"},
+    {"predicate": {"custom_model_data": 6370010},"model": "swords/golden/stained_glass/green"},
+    {"predicate": {"custom_model_data": 6370011},"model": "swords/golden/stained_glass/light_blue"},
+    {"predicate": {"custom_model_data": 6370012},"model": "swords/golden/stained_glass/light_gray"},
+    {"predicate": {"custom_model_data": 6370013},"model": "swords/golden/stained_glass/lime"},
+    {"predicate": {"custom_model_data": 6370014},"model": "swords/golden/stained_glass/magenta"},
+    {"predicate": {"custom_model_data": 6370015},"model": "swords/golden/stained_glass/orange"},
+    {"predicate": {"custom_model_data": 6370016},"model": "swords/golden/stained_glass/pink"},
+    {"predicate": {"custom_model_data": 6370017},"model": "swords/golden/stained_glass/purple"},
+    {"predicate": {"custom_model_data": 6370018},"model": "swords/golden/stained_glass/red"},
+    {"predicate": {"custom_model_data": 6370019},"model": "swords/golden/stained_glass/white"},
+    {"predicate": {"custom_model_data": 6370020},"model": "swords/golden/stained_glass/yellow"},
+
+    {"predicate": {"custom_model_data": 6370021},"model": "swords/golden/dripstone"},
+    {"predicate": {"custom_model_data": 6370022},"model": "swords/golden/glass_pain"},
+    {"predicate": {"custom_model_data": 6370023},"model": "swords/golden/stained_glass/all"}
+
+
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_pickaxe"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 6370001},"model": "hammer/diamond"},
+    {"predicate": {"custom_model_data": 6370002},"model": "pick/smelter"},
+    {"predicate": {"custom_model_data": 6370003},"model": "pick/diamond_strip"},
+    {"predicate": {"custom_model_data": 6370004},"model": "pick/diamond_tunnel"},
+    {"predicate": {"custom_model_data": 6370005},"model": "pick/xp"},
+    {"predicate": {"custom_model_data": 6370006},"model": "pick/rainbow"},
+    {"predicate": {"custom_model_data": 6370007},"model": "pick/momentum"},
+    {"predicate": {"custom_model_data": 6370008},"model": "pick/obsidian"},
+    {"predicate": {"custom_model_data": 6370009},"model": "pick/giant_diamond"},
+    {"predicate": {"custom_model_data": 6370010},"model": "pick/torch2"},
+
+    {"predicate": {"custom_model_data": 6370011},"model": "pick/ice"},
+    {"predicate": {"custom_model_data": 6370012},"model": "pick/lucky"}
+
+
+    ]
+}

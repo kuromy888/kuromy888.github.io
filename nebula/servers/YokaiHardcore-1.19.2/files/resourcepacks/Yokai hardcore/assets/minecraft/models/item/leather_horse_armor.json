@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_horse_armor"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "jj:stand/star_platinum_idle"},
+		{"predicate": {"custom_model_data": 2}, "model": "jj:stand/star_platinum_punch"},
+		{"predicate": {"custom_model_data": 3}, "model": "jj:stand/star_platinum_punch2"},
+		{"predicate": {"custom_model_data": 4}, "model": "jj:stand/star_platinum_punch3"},
+		{"predicate": {"custom_model_data": 5}, "model": "jj:stand/star_platinum_final"}
+    ]
+}
