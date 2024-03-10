@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Anuncio 1",
+    "texto": "Este es el primer anuncio.",
+    "imagen": "https://starlightskins.lunareclipse.studio/skin-render/archer/Dinofly7u7_SS/full"
+  },
+  {
+    "titulo": "Anuncio 2",
+    "texto": "Este es el segundo anuncio.",
+    "imagen": "https://starlightskins.lunareclipse.studio/skin-render/archer/Dinofly7u7_SS/full"
+  },
+  {
+    "titulo": "Anuncio 3",
+    "texto": "Este es el tercer anuncio.",
+    "imagen": "https://starlightskins.lunareclipse.studio/skin-render/archer/Dinofly7u7_SS/full"
+  },
+  {
+    "titulo": "Anuncio 4",
+    "texto": "Este es el cuarto anuncio.",
+    "imagen": "https://starlightskins.lunareclipse.studio/skin-render/archer/Dinofly7u7_SS/full"
+  },
+  {
+    "titulo": "Anuncio 5",
+    "texto": "Este es el quinto anuncio.",
+    "imagen": "https://starlightskins.lunareclipse.studio/skin-render/archer/Dinofly7u7_SS/full"
+  },
+  {
+    "titulo": "Anuncio 6",
+    "texto": "Este es el sexto anuncio.",
+    "imagen": "https://starlightskins.lunareclipse.studio/skin-render/archer/Dinofly7u7_SS/full"
+  }
+]
