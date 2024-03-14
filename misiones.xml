@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+
+<channel>
+	<title>KIRA-TEACHINGS</title>
+	<atom:link href="https://kira-teachings.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kira-teachings.com</link>
+	<description>CURSOS DE JAPONÉS EN LÍNEA</description>
+	<lastBuildDate>Thu, 01 Dec 2022 05:43:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://kira-teachings.com/wp-content/uploads/2023/12/cropped-favicon-kirateachings-32x32.jpg</url>
+	<title>KIRA-TEACHINGS</title>
+	<link>https://kira-teachings.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>朗報 INICIAMOS NUEVO CURSO CON GENKI! SUSCRÍBETE YA!</title>
+		<link>https://kira-teachings.com/%e6%9c%97%e5%a0%b1-iniciamos-nuevo-curso-con-genki-suscribete-ya/</link>
+					<comments>https://kira-teachings.com/%e6%9c%97%e5%a0%b1-iniciamos-nuevo-curso-con-genki-suscribete-ya/#comments</comments>
+		
+		<dc:creator><![CDATA[Kira Sensei]]></dc:creator>
+		<pubDate>Thu, 01 Dec 2022 05:43:13 +0000</pubDate>
+				<category><![CDATA[NOTICIAS]]></category>
+		<guid isPermaLink="false">https://kira-teachings.com/?p=4269</guid>
+
+					<description><![CDATA[Hacía tiempo que no decía esto en una lección de 日本語. うれしいです！Estoy súper emocionado por iniciar este curso con todos los que estáis estudiando con el manual GENKI. ¡Va a ser un proyecto grande!]]></description>
+										<content:encoded><![CDATA[
+<p class=" eplus-wrapper">Hacía tiempo que no decía esto en una lección de 日本語.</p>
+
+
+
+<p class=" eplus-wrapper">うれしいです！Estoy súper emocionado por iniciar este curso con todos los que estáis estudiando con el manual GENKI.</p>
+
+
+
+<p class="has-black-color has-text-color eplus-wrapper">¡Va a ser un proyecto grande!</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer eplus-wrapper"></div>
+
+
+
+<figure class="wp-embed-aspect-16-9 wp-has-aspect-ratio wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube eplus-wrapper"><div class="wp-block-embed__wrapper">
+<iframe title="QUÉ CUENTAN LOS MIGRANTES   - ENCUESTAS VOL. 4" width="500" height="281" src="https://www.youtube.com/embed/x3mgJDUUu0M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kira-teachings.com/%e6%9c%97%e5%a0%b1-iniciamos-nuevo-curso-con-genki-suscribete-ya/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+	</item>
+</channel>
+</rss>
